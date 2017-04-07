@@ -3,7 +3,7 @@ Es por esta razón que hemos creado este pequeño desafío. Se creativo y analí
 
 ## Descripción del reto
 
-Tu labor es crear una simple función y hacer que pase una prueba. La descripción y explicación de lo que debes hacer este en _index.js_.
+Tu labor es crear una simple función y hacer que pase una prueba. La descripción y explicación de lo que debes hacer esta en _index.js_.
 
 ## Para correr el reto
 
