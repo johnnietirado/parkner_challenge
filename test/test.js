@@ -4,7 +4,7 @@ var Cuenta = require('../index.js');
 
 describe('Parkner Test', function(){
     
-    var problema = [ 'aba', 'aab', 'ccc', 'ddc', 'dcd', 'baa', 'dds', 'sdd', 'dcd' ];
+    var problema = [ 'aba', 'aab', 'ccc', 'ddc', 'dcd', 'baa', 'dds', 'sdd', 'dcd', 'xyz' ];
     var solucion = [ 3, 3, 2, 1, 1 ];
 
     it('should pass test', function(){
