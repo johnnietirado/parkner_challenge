@@ -23,6 +23,6 @@ Es tu labor hacer que pase el test.
 
 ## Como entregar la respuesta
 
-Ya que este es un repositorio publico, manda tu archivo _index.js_ como _[tu nombre].index.js.txt_ a **johnnie.tirado@parkner.com.pe**
+Ya que este es un repositorio publico, manda tu archivo _index.js_ como _[tu nombre].index.js.txt_ a **johnnie@parkner.com.pe**
 
 **SUERTE**
